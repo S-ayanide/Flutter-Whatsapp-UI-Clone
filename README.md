@@ -25,10 +25,10 @@ This Flutter app allows the user to select any 5 block from the total 25 present
      width="200"/> <img src="images/Capture5.png"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="WhatsappChat.gif"
+     width="200"/> <img src="images/WhatsappChat.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="WhatsappStatus.gif"
+     width="200"/> <img src="images/WhatsappStatus.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>
